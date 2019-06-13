@@ -1,0 +1,2 @@
+# Fisheries-monitoring-to-stop-illegal-practices-
+Machine learning has the ability to transform what we know about our oceans and how we manage them.In the Western and Central Pacific, where 60% of the world’s tuna is caught, illegal, unreported, and unregulated fishing practices are threatening marine ecosystems, global seafood supplies and local livelihoods.Our goal is to predict the likelihood of fish species in each picture.
