@@ -15,6 +15,10 @@ Error metric used :
 error_rate(source:https://docs.fast.ai/metrics.html#error_rate): It calculates mean difference between predicted and target image.
 
 
+
+# Results
+Validation Accuracy: 92.02
+
 # Google Colab 
 visit the below link to get started with google colab :
 
