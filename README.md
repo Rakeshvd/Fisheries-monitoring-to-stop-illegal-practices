@@ -5,6 +5,11 @@ Machine learning has the ability to transform what we know about our oceans and 
 
 Dataset used:can be found in dataset file.
 
+
+<p align="center">
+  <img src="https://storage.googleapis.com/kaggle-competitions/kaggle/5568/media/species-ref-key.jpg">
+</p>
+
 Model used : ResNet34 
 architechture info: https://towardsdatascience.com/understanding-and-visualizing-resnets-442284831be8
 
